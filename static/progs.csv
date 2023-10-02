@@ -71,3 +71,33 @@ A,mutt-wizard-git,"is a light-weight terminal-based email system."
 ,moreutils,"is a collection of useful unix tools."
 ,obsidian,"is a note-making application."
 ,bashtop,"is a lovely and rich alternative to htop."
+,rsync
+,ncdu,"is a tool to show file directory sizes to find large directories and files."
+,gvfs,"seems to be necessary to show or automatically mount drives."
+,thunar,"a file explorer I am comfortable using."
+,bitwarden
+,libreoffice-still
+,mixxx
+,keepassxc
+,texstudio
+,kmymoney
+,nicotine+
+,pdfarranger
+,signal-desktop
+,syncthing
+,filezilla
+,xf86-video-intel
+,bluez
+,bluez-utils
+,blueman
+,blueberry
+,lxappearance
+,ttf-jetbrains-mono
+,ttf-roboto
+,ttf-jetbrains-mono-nerd
+,ttf-roboto-mono-nerd
+,dictd
+,darktable
+,sshfs
+A,spotify
+A,zoom-firejail
