@@ -75,11 +75,10 @@ A,mutt-wizard-git,"is a light-weight terminal-based email system."
 ,ncdu,"is a tool to show file directory sizes to find large directories and files."
 ,gvfs,"seems to be necessary to show or automatically mount drives."
 ,thunar,"a file explorer I am comfortable using."
-,bitwarden
-,libreoffice-still
+,bitwarden,"a password manager with cloud backups."
+,libreoffice-still,"open-office that works for now."
 ,mixxx
 ,keepassxc
-,texstudio
 ,kmymoney
 ,nicotine+
 ,pdfarranger
@@ -100,4 +99,4 @@ A,mutt-wizard-git,"is a light-weight terminal-based email system."
 ,darktable
 ,sshfs
 A,spotify
-A,zoom-firejail
+A,zoom
