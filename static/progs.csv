@@ -100,3 +100,5 @@ A,mutt-wizard-git,"is a light-weight terminal-based email system."
 ,sshfs
 A,spotify
 A,zoom
+,tlp,"Laptop battery optimzation package."
+,rclone,"rsync on steroids."
