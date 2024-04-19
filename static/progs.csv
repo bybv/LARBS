@@ -69,36 +69,32 @@ A,mutt-wizard-git,"is a light-weight terminal-based email system."
 ,slock,"allows you to lock your computer, and quickly unlock with your password."
 ,socat,"is a utility which establishes two byte streams and transfers data between them."
 ,moreutils,"is a collection of useful unix tools."
-,obsidian,"is a note-making application."
-,bashtop,"is a lovely and rich alternative to htop."
-,rsync
-,ncdu,"is a tool to show file directory sizes to find large directories and files."
-,gvfs,"seems to be necessary to show or automatically mount drives."
-,thunar,"a file explorer I am comfortable using."
-,bitwarden,"a password manager with cloud backups."
-,libreoffice-still,"open-office that works for now."
-,mixxx
-,keepassxc
-,kmymoney
-,nicotine+
-,pdfarranger
-,signal-desktop
-,syncthing
-,filezilla
-,xf86-video-intel
-,bluez
-,bluez-utils
-,blueman
-,blueberry
-,lxappearance
-,ttf-jetbrains-mono
-,ttf-roboto
-,ttf-jetbrains-mono-nerd
-,ttf-roboto-mono-nerd
-,dictd
-,darktable
-,sshfs
-A,spotify
-A,zoom
-,tlp,"Laptop battery optimzation package."
-,rclone,"rsync on steroids."
+,obsidian,"serves as a note-making application."
+,bashtop,"offers a lovely and rich alternative to htop."
+,rsync,"provides fast and versatile file synchronization."
+,ncdu,"displays file directory sizes to identify large directories and files."
+,gvfs,"seems to be necessary for showing or automatically mounting drives."
+,thunar,"is a file explorer that many find comfortable to use."
+,bitwarden,"serves as a password manager with cloud backups."
+,libreoffice-still,"is a version of open-office that remains stable for now."
+,mixxx,"is DJ software for mixing music."
+,keepassxc,"is a cross-platform password manager."
+,kmymoney,"is personal finance software."
+,nicotine+,"is a graphical client for the Soulseek file sharing network."
+,pdfarranger,"is a tool for rearranging PDF pages and documents."
+,signal-desktop,"is a secure and private messaging app for desktop."
+,syncthing,"provides continuous file synchronization between devices."
+,filezilla,"is an FTP client for file transfer."
+,xf86-video-intel,"provides Intel graphics driver support."
+,bluez,"provides support for Bluetooth technology."
+,bluez-utils,"provides Bluetooth utilities and tools."
+,blueman,"is a Bluetooth management utility."
+,blueberry,"offers Bluetooth configuration for GNOME."
+,lxappearance,"is a GTK theme switcher."
+,ttf-jetbrains-mono,"is a monospaced font from JetBrains."
+,ttf-roboto,"is a sans-serif font designed by Google."
+,ttf-jetbrains-mono-nerd,"is a patched version of JetBrains Mono font with Nerd Fonts."
+,ttf-roboto-mono-nerd,"is a patched version of Roboto Mono font with Nerd Fonts."
+,dictd,"is a client/server software for dictionary information."
+,darktable,"is an open-source photography workflow application."
+,sshfs,"allows for mounting remote filesystems using SSH."
